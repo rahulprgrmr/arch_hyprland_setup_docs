@@ -1,6 +1,6 @@
 # All Packages
 
-[Back to Setup Guide]('Arch Linux Hyprland Setup.md')
+[Back to Setup Guide](arch-hyprland-setup.md)
 
 
 
